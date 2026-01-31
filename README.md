@@ -1,4 +1,4 @@
-# HomeTown Automation Testing Framework
+# HomeTown Automation Testing 
 
 ## Project Overview
 This project is an automation testing framework developed to validate key functionalities of the HomeTown e-commerce web application using Selenium WebDriver, Java, TestNG, and Extent Reports.
@@ -131,12 +131,10 @@ The framework follows Page Object Model (POM) and Data-Driven Testing principles
 - Reusable Page Object classes
 - Clean separation between test logic and UI actions
 - Scalable and maintainable automation framework
-- Industry-standard best practices
 
 ---
 
 ## Author
 **Hemanth R**  
-Software Test Engineer
 
 
