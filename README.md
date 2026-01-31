@@ -7,62 +7,42 @@ The framework follows Page Object Model (POM) and Data-Driven Testing principles
 
 ---
 
-## Technology Stack
-- Programming Language: Java
-- Automation Tool: Selenium WebDriver
-- Test Framework: TestNG
-- Build Tool: Maven
-- Reporting: Extent Reports
-- Data-Driven Testing: Apache POI (Excel)
-- Design Pattern: Page Object Model (POM)
-
----
-
 ## Project Structure
+
 ## HomeTown_Automation
 
 ### base
----
-
-#### Base.java
+- Base.java
 
 ### pages
----
-
-#### HomePage.java  
-#### LoginPage.java  
-#### ProductSearchPage.java  
-#### ProductCardValidationPage.java  
-#### AddToWishListPage.java  
+- HomePage.java
+- SignUpPage.java
+- LoginPage.java
+- ProductSearchPage.java
+- ProductCardValidationPage.java
+- AddToWishListPage.java
+- AddToCartPage.java
 
 ### tests
----
-
-#### LoginTest.java  
-#### ProductSearchTest.java  
-#### ProductCardValidationTest.java  
-#### AddToWishListTest.java  
+- LoginTest.java
+- SignUpTEst.java
+- ProductSearchTest.java
+- ProductCardValidationTest.java
+- AddToWishListTest.java
+- AddToCartTest.java
 
 ### utils
----
-
-#### ExcelUtils.java  
-#### ExtentReportManager.java  
+- ExcelUtils.java
+- ExtentReportManager.java
 
 ### listeners
----
-
-#### TestListener.java  
+- TestListener.java
 
 ### testdata
----
-
-#### hometown_data_driven.xlsx  
+- hometown_data_driven.xlsx
 
 ### Root Files
----
-
-#### pom.xml
+- pom.xml
 
 
 ---
