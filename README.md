@@ -19,36 +19,36 @@ The framework follows Page Object Model (POM) and Data-Driven Testing principles
 ---
 
 ## Project Structure
-HomeTown_Automation
-│
-├── base
-│ └── Base.java
-│
-├── pages
-│ ├── HomePage.java
-│ ├── LoginPage.java
-│ ├── ProductSearchPage.java
-│ ├── ProductCardValidationPage.java
-│ └── AddToWishListPage.java
-│
-├── tests
-│ ├── LoginTest.java
-│ ├── ProductSearchTest.java
-│ ├── ProductCardValidationTest.java
-│ └── AddToWishListTest.java
-│
-├── utils
-│ ├── ExcelUtils.java
-│ └── ExtentReportManager.java
-│
-├── listeners
-│ └── TestListener.java
-│
-├── testdata
-│ └── hometown_data_driven.xlsx
-│
-└── pom.xml
+## HomeTown_Automation
 
+### base
+#### Base.java
+
+### pages
+#### HomePage.java
+#### LoginPage.java
+#### ProductSearchPage.java
+#### ProductCardValidationPage.java
+#### AddToWishListPage.java
+
+### tests
+#### LoginTest.java
+#### ProductSearchTest.java
+#### ProductCardValidationTest.java
+#### AddToWishListTest.java
+
+### utils
+#### ExcelUtils.java
+#### ExtentReportManager.java
+
+### listeners
+#### TestListener.java
+
+### testdata
+#### hometown_data_driven.xlsx
+
+### Root Files
+#### pom.xml
 
 ---
 
