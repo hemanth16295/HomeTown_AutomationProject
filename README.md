@@ -1,5 +1,7 @@
 # HomeTown Automation Testing 
 
+🔗 Application URL: https://www.hometown.in/
+
 ## Project Overview
 This project is an automation testing framework developed to validate key functionalities of the HomeTown e-commerce web application using Selenium WebDriver, Java, TestNG, and Extent Reports.
 
